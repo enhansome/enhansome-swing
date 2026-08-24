@@ -1,7 +1,1454 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JGraphX",
+          "description": "Diagramming (graph visualisation) library BSD 4.2.2 / Oct 28, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4404412,
+            "language": "Java",
+            "last_commit": "2020-11-13T09:07:27Z",
+            "owner": "jgraph",
+            "repo": "jgraphx",
+            "stars": 692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piccolo2D",
+          "description": "Graphical toolkit based on the Java2D API Custom (free) 3.0.1 / Jan 7, 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40444182,
+            "language": "Java",
+            "last_commit": "2025-02-15T23:19:38Z",
+            "owner": "piccolo2d",
+            "repo": "piccolo2d.java",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JFreeChart",
+          "description": "Client-side and server-side chart library LGPL 1.5.4 / Jan 8, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50873393,
+            "language": "Java",
+            "last_commit": "2025-11-22T13:28:08Z",
+            "owner": "jfree",
+            "repo": "jfreechart",
+            "stars": 1390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrsonPDF",
+          "description": "PDF generation library for Java GPL-3.0/Commercial 1.9.1 / Nov 6, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12557372,
+            "language": "Java",
+            "last_commit": "2022-11-06T18:00:33Z",
+            "owner": "jfree",
+            "repo": "orsonpdf",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmilePlot",
+          "description": "Data visualization library for Smile (Statistical Machine Intelligence & Learning Engine) Apache 2.0 3.1.1 / May 22, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26921116,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:27:43Z",
+            "owner": "haifengl",
+            "repo": "smile",
+            "stars": 6413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSyntaxTextArea",
+          "description": "Customizable, syntax highlighting text component Modified BSD 3.5.1 / Jul 27, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11966919,
+            "language": "Java",
+            "last_commit": "2026-08-17T19:08:28Z",
+            "owner": "bobbylight",
+            "repo": "RSyntaxTextArea",
+            "stars": 1250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flying Saucer",
+          "description": "XML/XHTML and CSS 2.1 renderer LGPL 9.9.0 / Jul 19, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618681,
+            "language": "Java",
+            "last_commit": "2026-08-18T05:29:16Z",
+            "owner": "flyingsaucerproject",
+            "repo": "flyingsaucer",
+            "stars": 2233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lobo",
+          "description": "/ LoboEvolution Lobo is an extensible all-Java web browser and RIA platform. MIT/GPL 4.0 / Sep 20, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25392674,
+            "language": "Java",
+            "last_commit": "2026-08-04T23:27:35Z",
+            "owner": "LoboEvolution",
+            "repo": "LoboEvolution",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MigLayout",
+          "description": "Powerful layout manager BSD 11.4 / Jul 04, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36735187,
+            "language": "Java",
+            "last_commit": "2026-03-04T07:04:57Z",
+            "owner": "mikaelgrev",
+            "repo": "miglayout",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TableLayout",
+          "description": "Table-based layout for Java UI toolkits (incl. Swing) ? n/a",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14173209,
+            "language": "Java",
+            "last_commit": "2024-04-04T12:42:10Z",
+            "owner": "EsotericSoftware",
+            "repo": "tablelayout",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layered Font Icons",
+          "description": "Allows to use font icons, optionally with multiple layers in one icon. Apache 2.0 0.2.0 / 21 Feb, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594678809,
+            "language": "Java",
+            "last_commit": "2025-10-05T18:15:13Z",
+            "owner": "mimoguz",
+            "repo": "layeredfonticon",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JXMapViewer2",
+          "description": "Geo map viewer LGPL 2.8 / Dec 27, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4564034,
+            "language": "Java",
+            "last_commit": "2025-11-18T07:06:09Z",
+            "owner": "msteiger",
+            "repo": "jxmapviewer2",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Batik",
+          "description": "Scalable Vector Graphics (SVG) toolkit from Apache Apache 2.0 1.17 / Aug 14, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206445,
+            "language": "Java",
+            "last_commit": "2026-06-03T11:17:51Z",
+            "owner": "apache",
+            "repo": "xmlgraphics-batik",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVG Salamander",
+          "description": "SVG Salamander is an SVG engine for Java LGPL and BSD v1.1.4 / Oct 6, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58847568,
+            "language": "Java",
+            "last_commit": "2025-12-04T02:41:18Z",
+            "owner": "blackears",
+            "repo": "svgSalamander",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JFreeSVG",
+          "description": "Java library for creating SVG output GPL / Commercial 5.0.6 / Jun 23, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11332115,
+            "language": "Java",
+            "last_commit": "2026-01-17T09:26:27Z",
+            "owner": "jfree",
+            "repo": "jfreesvg",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LGoodDatePicker",
+          "description": "Date Picker widget MIT 11.2.1 / Mar 1, 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52056522,
+            "language": "Java",
+            "last_commit": "2023-08-10T21:18:22Z",
+            "owner": "LGoodDatePicker",
+            "repo": "LGoodDatePicker",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JDatePicker",
+          "description": "Date Picker widget BSD 1.3.4.1 / Jun 6, 2015",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22173392,
+            "language": "Java",
+            "last_commit": "2026-02-06T16:54:15Z",
+            "owner": "JDatePicker",
+            "repo": "JDatePicker",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yFiles",
+          "description": "UI controls for drawing, viewing, and editing diagrams & graphs. Demos. Commercial 3.1 / 27 June 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196159476,
+            "language": null,
+            "last_commit": "2026-03-04T15:42:32Z",
+            "owner": "yWorks",
+            "repo": "yfiles-for-java-swing-demos",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlidingLayout",
+          "description": "Little library lets you very easily create smooth transitions between two layouts of components in a special panel Apache 2.0 1.1.1 / Sep 23, 2012",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5798873,
+            "language": "Java",
+            "last_commit": "2024-04-04T10:55:46Z",
+            "owner": "AurelienRibon",
+            "repo": "sliding-layout",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebLaF",
+          "description": "Look and Feel library GPL / Commercial v1.2.13 / Jun 19, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10596740,
+            "language": "Java",
+            "last_commit": "2024-07-02T10:05:23Z",
+            "owner": "mgarin",
+            "repo": "weblaf",
+            "stars": 1176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darklaf",
+          "description": "A themeable Swing Look and Feel MIT v3.0.2 / Sep 30, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207628269,
+            "language": "Java",
+            "last_commit": "2025-09-16T08:06:02Z",
+            "owner": "weisJ",
+            "repo": "darklaf",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Design L&F",
+          "description": "Material Design Look and Feel MIT v1.1.4 / Sep 13, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141935742,
+            "language": "Java",
+            "last_commit": "2026-05-07T11:14:11Z",
+            "owner": "vincenzopalazzo",
+            "repo": "material-ui-swing",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTerminal",
+          "description": "Look-and-Feel which allows for the display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders Apache 2.0 2024.1.6 / Jan 6, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91964549,
+            "language": "Java",
+            "last_commit": "2026-08-01T11:52:52Z",
+            "owner": "Valkryst",
+            "repo": "VTerminal",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radiance",
+          "description": "Collection of Swing libraries (SVG icons, animation, skinning, additional components, etc.) BSD 3-Clause 7.5.0 / Jun 24, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132473990,
+            "language": "Java",
+            "last_commit": "2026-08-10T21:13:28Z",
+            "owner": "kirill-grouchnikov",
+            "repo": "radiance",
+            "stars": 904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UISpec4J",
+          "description": "Functional and/or unit testing library for Swing-based applications ? 2.4 / Nov 26, 2011",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2845921,
+            "language": "Java",
+            "last_commit": "2024-03-24T16:50:28Z",
+            "owner": "UISpec4J",
+            "repo": "UISpec4J",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automaton",
+          "description": "Framework for testing of Swing and JavaFX2 applications Apache 2.0 1.3.2 / Jan 27, 2016",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13226191,
+            "language": "Groovy",
+            "last_commit": "2017-12-05T20:03:20Z",
+            "owner": "renatoathaydes",
+            "repo": "Automaton",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxSwing",
+          "description": "RxJava bindings for Swing Apache 2.0 0.27.0 / Sep 17, 2016",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23095986,
+            "language": "Java",
+            "last_commit": "2017-04-26T08:48:53Z",
+            "owner": "ReactiveX",
+            "repo": "RxSwing",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zircon",
+          "description": "Text GUI library (for game developers) MIT 2021.1.0 / Aug 31, 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94116947,
+            "language": "Kotlin",
+            "last_commit": "2026-06-24T17:46:18Z",
+            "owner": "Hexworks",
+            "repo": "zircon",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glazed Lists",
+          "description": "Implementation of List suitable for using as data model for Swing components LGPL/MPL 1.11.0 / Sep 9, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18942355,
+            "language": "Java",
+            "last_commit": "2025-05-11T21:45:34Z",
+            "owner": "glazedlists",
+            "repo": "glazedlists",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FriceEngine",
+          "description": "JVM game engine based on Swing/JavaFX Affero GPL v1.8.5 / Aug 7, 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65617268,
+            "language": "Kotlin",
+            "last_commit": "2019-12-28T15:45:18Z",
+            "owner": "icela",
+            "repo": "FriceEngine",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SystemTray",
+          "description": "Cross-platform SystemTray support for Swing/AWT Apache 2.0 4.4 / Aug 21, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26098797,
+            "language": "Java",
+            "last_commit": "2024-02-14T22:58:34Z",
+            "owner": "dorkbox",
+            "repo": "SystemTray",
+            "stars": 496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragonConsole",
+          "description": "Terminal emulator MIT n/a",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4627209,
+            "language": "Kotlin",
+            "last_commit": "2022-04-26T01:04:39Z",
+            "owner": "bbuck",
+            "repo": "DragonConsole",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApkToolBoxGUI",
+          "description": "APKToolBoxGUI is a handy tool for programmer with user-friendly Swing GUI Apache 2.0 v1.0.4 / Sep 1, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145309300,
+            "language": "Java",
+            "last_commit": "2026-08-23T20:31:38Z",
+            "owner": "AloysHF",
+            "repo": "ApkToolBoxGUI",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JediTerm",
+          "description": "Terminal widget that can be easily embedded into an IDE LGPLv3 and Apache 2.0 v2.42 / Mar 19, 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7544679,
+            "language": "Java",
+            "last_commit": "2026-07-30T20:36:11Z",
+            "owner": "JetBrains",
+            "repo": "jediterm",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swing-console",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5825858,
+            "language": "Java",
+            "last_commit": "2024-08-27T06:11:49Z",
+            "owner": "mikera",
+            "repo": "swing-console",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LGPL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5825858,
+            "language": "Java",
+            "last_commit": "2024-08-27T06:11:49Z",
+            "owner": "mikera",
+            "repo": "swing-console",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IntelliJ IDEA CE",
+          "description": "Source code of IntelliJ IDEA Community Edition Apache 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2489216,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:20:19Z",
+            "owner": "JetBrains",
+            "repo": "intellij-community",
+            "stars": 20482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lanterna",
+          "description": "Java library for creating text-based GUIs LGPL-3.0 3.1.2 / Feb 04, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38230607,
+            "language": "Java",
+            "last_commit": "2026-07-07T12:30:20Z",
+            "owner": "mabe02",
+            "repo": "lanterna",
+            "stars": 2614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jGAF",
+          "description": "Generic Swing Application Framework Apache 2.0 v2.4.2 / Mar 10, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52103978,
+            "language": "Java",
+            "last_commit": "2023-03-10T14:38:20Z",
+            "owner": "pgdurand",
+            "repo": "jGAF",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiXml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1656999,
+            "language": "Java",
+            "last_commit": "2014-12-28T01:04:36Z",
+            "owner": "swixml",
+            "repo": "Two",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Custom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1656999,
+            "language": "Java",
+            "last_commit": "2014-12-28T01:04:36Z",
+            "owner": "swixml",
+            "repo": "Two",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JTouchBar",
+          "description": "Library for using the touchbar API on supported macbooks. MIT 1.0.0 / Jan 22, 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108015422,
+            "language": "Objective-C++",
+            "last_commit": "2021-09-21T14:10:39Z",
+            "owner": "Thizzer",
+            "repo": "jtouchbar",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JnaFileChooser",
+          "description": "File chooser that uses the Windows native dialogs if possible. Custom (Open Source) 1.1.2 / Aug 14, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178621,
+            "language": "Java",
+            "last_commit": "2024-08-14T17:11:30Z",
+            "owner": "steos",
+            "repo": "jnafilechooser",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSplitButton",
+          "description": "A split button control Apache 2.0 2.0.0 / May 27, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48914542,
+            "language": "Java",
+            "last_commit": "2026-08-20T20:10:44Z",
+            "owner": "rhwood",
+            "repo": "jsplitbutton",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UiBooster",
+          "description": "Fast and easy dialogs for utility tools GPL-3.0 1.21.1 / Jun 30, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203447822,
+            "language": "Java",
+            "last_commit": "2026-08-10T19:02:57Z",
+            "owner": "Milchreis",
+            "repo": "UiBooster",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java Swing Tips",
+          "description": "Java Swing examples MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23829681,
+            "language": null,
+            "last_commit": "2026-08-23T15:36:54Z",
+            "owner": "aterai",
+            "repo": "java-swing-tips",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JTreeTable",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50139201,
+            "language": "Java",
+            "last_commit": "2022-12-01T15:28:45Z",
+            "owner": "javagl",
+            "repo": "JTreeTable",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"As is\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50139201,
+            "language": "Java",
+            "last_commit": "2022-12-01T15:28:45Z",
+            "owner": "javagl",
+            "repo": "JTreeTable",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swing-fx-properties",
+          "description": "Adaptation of JavaFX properties for Swing (Disclaimer: I'm the author of the library) GPL v2 with CE v1.25 / Jan 4, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272687971,
+            "language": "Java",
+            "last_commit": "2024-01-04T20:01:17Z",
+            "owner": "parubok",
+            "repo": "swing-fx-properties",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwingX, salvaged",
+          "description": "A copy of the source code for the SwingX library LGPL v1.6.6 / Dec 25, 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115294924,
+            "language": "Java",
+            "last_commit": "2018-01-24T16:08:41Z",
+            "owner": "arotenberg",
+            "repo": "swingx",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KControls",
+          "description": "Components to beautify user interfaces and give UI’s a modern look Apache 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141679675,
+            "language": "Java",
+            "last_commit": "2023-11-26T18:43:47Z",
+            "owner": "k33ptoo",
+            "repo": "KControls",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwingSpy",
+          "description": "Component tree visualizer for Swing UI debugging MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102981193,
+            "language": "Java",
+            "last_commit": "2017-09-09T20:25:16Z",
+            "owner": "igr",
+            "repo": "swingspy",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-IO",
+          "description": "Library for creating Java console applications (provides Swing terminal). Apache 2.0 3.4.1 / Apr 17, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73326848,
+            "language": "Java",
+            "last_commit": "2023-11-02T08:49:43Z",
+            "owner": "beryx",
+            "repo": "text-io",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwingBits",
+          "description": "Swing UI Enhacements BSD-3-Clause License 1.3.0 / Apr 17, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4855448,
+            "language": "Java",
+            "last_commit": "2023-04-16T22:21:03Z",
+            "owner": "eugener",
+            "repo": "oxbow",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scala-swing",
+          "description": "UI library that wraps most of Java Swing for Scala Apache 2.0 v3.0.0#3.0.0 / Nov 11, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14881281,
+            "language": "Scala",
+            "last_commit": "2026-08-21T23:17:46Z",
+            "owner": "scala",
+            "repo": "scala-swing",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwelveMonkeys",
+          "description": "Collection of plugins and extensions for Java's ImageIO BSD-3-Clause 3.11.0 / Jun 08, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 296658,
+            "language": "Java",
+            "last_commit": "2026-08-21T08:48:04Z",
+            "owner": "haraldk",
+            "repo": "TwelveMonkeys",
+            "stars": 2141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWT Color Factory",
+          "description": "Easily create from string GPL v2 with CE v1.0.2 / Aug 2, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139198021,
+            "language": "Java",
+            "last_commit": "2020-08-02T10:59:28Z",
+            "owner": "beryx",
+            "repo": "awt-color-factory",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Snake",
+          "description": "A simple snake game MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16499586,
+            "language": "Java",
+            "last_commit": "2024-10-08T23:38:44Z",
+            "owner": "hexadeciman",
+            "repo": "Snake",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BatBat Game",
+          "description": "BatBat is an easy and free Maven Java game run in Spring Boot MIT 2.5 / Jun 16, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91010224,
+            "language": "Java",
+            "last_commit": "2024-04-14T12:13:18Z",
+            "owner": "tonikolaba",
+            "repo": "BatBat-Game",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "file-manager",
+          "description": "Basic File Manager MIT 1.0 / Aug 6, 2015",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21087611,
+            "language": "Java",
+            "last_commit": "2026-08-24T02:28:16Z",
+            "owner": "javadev",
+            "repo": "file-manager",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pumpernickel Project",
+          "description": "Swing components and other related code (see demo) MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64222790,
+            "language": "Java",
+            "last_commit": "2025-11-05T07:48:02Z",
+            "owner": "mickleness",
+            "repo": "pumpernickel",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot Swing Reservations",
+          "description": "Spring Boot + JPA/Hibernate Swing application MIT 1.0 / Aug 1, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51751326,
+            "language": "Java",
+            "last_commit": "2024-02-02T16:04:50Z",
+            "owner": "DanielMichalski",
+            "repo": "spring-boot-swing-reservation-system",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypher Notepad",
+          "description": "Plain-text (.txt) editor for file encryption GPL-3.0 v3.0 / Sep 28, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171345481,
+            "language": "Java",
+            "last_commit": "2022-01-28T14:27:44Z",
+            "owner": "Cypher-Notepad",
+            "repo": "Cypher-Notepad",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JPass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 23666993,
+            "language": "Java",
+            "last_commit": "2025-02-24T08:11:20Z",
+            "owner": "gaborbata",
+            "repo": "jpass",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"As is\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 23666993,
+            "language": "Java",
+            "last_commit": "2025-02-24T08:11:20Z",
+            "owner": "gaborbata",
+            "repo": "jpass",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passwørd Safe",
+          "description": "A simple, secure password storage tool which allows you to keep all your passwords in one encrypted file Apache 2.0 Jul 21, 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30781883,
+            "language": "Java",
+            "last_commit": "2023-07-21T05:46:18Z",
+            "owner": "andy-goryachev",
+            "repo": "PasswordSafe",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache JMeter",
+          "description": "Java application designed to measure performance and load test applications Apache 2.0 v5.6.3 / Jan 9, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688352,
+            "language": "Java",
+            "last_commit": "2026-08-14T19:33:43Z",
+            "owner": "apache",
+            "repo": "jmeter",
+            "stars": 9518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calculator",
+          "description": "Very basic calculator application MIT v0.1 / Feb 24, 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119902704,
+            "language": "Java",
+            "last_commit": "2024-07-30T02:40:06Z",
+            "owner": "HouariZegai",
+            "repo": "Calculator",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GC4S",
+          "description": "Bioinformatics-oriented collection of GUI Components LGPLv3 v1.6.0 / Sep 4, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27824737,
+            "language": "Java",
+            "last_commit": "2023-11-23T09:35:17Z",
+            "owner": "sing-group",
+            "repo": "GC4S",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChuckooChess",
+          "description": "Adaptation of Peter Österlund's CuckooChess GPL v3 v1.12 / Jul 30, 2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98561502,
+            "language": "Java",
+            "last_commit": "2025-04-03T04:06:20Z",
+            "owner": "sauce-code",
+            "repo": "cuckoo",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icon-generator",
+          "description": "A simple library for generating icons in Java Apache 2.0 v1.2 / Oct 14, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45975451,
+            "language": "Java",
+            "last_commit": "2026-02-14T13:48:29Z",
+            "owner": "sshtools",
+            "repo": "icon-generator",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swing Library",
+          "description": "This library contains a number of advanced components and layout managers the Java Swing framework is missing MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27034359,
+            "language": "Java",
+            "last_commit": "2018-12-17T09:26:58Z",
+            "owner": "oliverwatkins",
+            "repo": "swing_library",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "projector-server",
+          "description": "Server-side library for running Swing applications remotely GPL-2.0 v1.8.1 / May 27, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 267844792,
+            "language": "Kotlin",
+            "last_commit": "2024-01-21T02:33:24Z",
+            "owner": "JetBrains",
+            "repo": "projector-server",
+            "stars": 1252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jExifToolGUI",
+          "description": "Graphical frontend for the command-line ExifTool application GPL-3.0 2.0.2 / Mar 18, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187222374,
+            "language": "Java",
+            "last_commit": "2023-12-11T23:08:29Z",
+            "owner": "hvdwolf",
+            "repo": "jExifToolGUI",
+            "stars": 572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rest API Testing",
+          "description": "Open Source Rest API Testing Apache 2.0 1.0.0 / Jul 29, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 226641133,
+            "language": "Java",
+            "last_commit": "2022-01-31T16:54:40Z",
+            "owner": "supanadit",
+            "repo": "restsuite",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jython Swing Utilities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35814585,
+            "language": "Python",
+            "last_commit": "2018-01-23T11:35:38Z",
+            "owner": "jython",
+            "repo": "swingutils",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of utility classes and helper functions to make it easier to build Swing user interfaces with Jython",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282480317,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:50:54Z",
+            "owner": "jython",
+            "repo": "jython",
+            "stars": 1535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jZELD",
+          "description": "Framework for layout and emplacement of various drawn shapes on a canvas LGPL-3.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133154239,
+            "language": "Java",
+            "last_commit": "2024-10-03T17:04:18Z",
+            "owner": "kkieffer",
+            "repo": "jZELD",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWebStart",
+          "description": "Run Web Start based applications after the release of Java 11 GPLv2 with exceptions / Commercial 1.10.1 / Jun 13, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187595602,
+            "language": "Java",
+            "last_commit": "2026-07-04T14:46:02Z",
+            "owner": "karakun",
+            "repo": "OpenWebStart",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FutureRestore GUI",
+          "description": "A cross-platform interface for FutureRestore, written in Java with Swing LGPL-2.1 v1.98.3 / Dec 18, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344193453,
+            "language": "Java",
+            "last_commit": "2023-03-27T20:13:59Z",
+            "owner": "CoocooFroggy",
+            "repo": "FutureRestore-GUI",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JInputValidator",
+          "description": "An InputVerifier that shows validation state to the right of the validating component Apache 2.0 0.9.0 / Apr 27, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191156809,
+            "language": "Java",
+            "last_commit": "2026-08-20T20:39:12Z",
+            "owner": "rhwood",
+            "repo": "jinputvalidator",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swing-stream-utils",
+          "description": "Utils for working with Java Swing components via Java 8 streams (Disclaimer: I'm the author of the library) Apache 2.0 v1.37 / Apr 29, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271774514,
+            "language": "Java",
+            "last_commit": "2023-04-29T07:48:47Z",
+            "owner": "parubok",
+            "repo": "swing-stream-utils",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jSystemThemeDetector",
+          "description": "Java library for detecting that the (desktop) operating system uses dark UI theme or not Apache 2.0 3.9.1 / Apr 10, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308948797,
+            "language": "Java",
+            "last_commit": "2026-01-10T21:45:30Z",
+            "owner": "Dansoftowner",
+            "repo": "jSystemThemeDetector",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PanelMatic",
+          "description": "A Java Swing library for making high-quality complex layouts easy MIT 0.9.9 / Aug 23, 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321362663,
+            "language": "Java",
+            "last_commit": "2022-02-07T20:54:53Z",
+            "owner": "codeworth-gh",
+            "repo": "PanelMatic",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Tool",
+          "description": "Powerful and beautiful program, created to make popular adb and fastboot commands easier to use Apache 2.0 v2.0.2 / Dec 24, 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283022597,
+            "language": "Kotlin",
+            "last_commit": "2022-05-09T06:41:36Z",
+            "owner": "rodion-gudz",
+            "repo": "Android-Tool",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecresOS",
+          "description": "Lightweight UI for quick interaction with the system and Internet Apache 2.0 1.3 / Jun 13, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362355110,
+            "language": "Java",
+            "last_commit": "2022-06-14T19:48:28Z",
+            "owner": "PranavAmarnath",
+            "repo": "SecresOS",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpringRemote",
+          "description": "Tabbed remote linux SSH connections manager MIT 0.1.9 / Jun 12, 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172343102,
+            "language": "Java",
+            "last_commit": "2023-02-04T14:04:49Z",
+            "owner": "HaleyWang",
+            "repo": "SpringRemote",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MooInfo",
+          "description": "Visual implementation of OSHI, to view information about the system and hardware MIT 1.1.3 / Jul 24, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 432400286,
+            "language": "Java",
+            "last_commit": "2026-07-25T12:38:43Z",
+            "owner": "rememberber",
+            "repo": "MooInfo",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Color Picker Dialog",
+          "description": "Color picker that contains visual color selection and input boxes to enter RGB and HSB values manually BSD-3-Clause 2.0.1 / Apr 19, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524052248,
+            "language": "Java",
+            "last_commit": "2026-08-21T18:16:28Z",
+            "owner": "dheid",
+            "repo": "colorpicker",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flamegraph/Iciclegraph",
+          "description": "Flamegraph / Iciclegraph component MPL-2.0 v0.0.1-rc.4 / Jan 6, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 444023183,
+            "language": "Java",
+            "last_commit": "2026-08-21T01:14:59Z",
+            "owner": "bric3",
+            "repo": "fireplace",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multiline-label",
+          "description": "Component to display a plain, left-to-right text (single line or multiline) (Disclaimer: I'm the author of the library) Apache 2.0 1.20 / Feb 10, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285054794,
+            "language": "Java",
+            "last_commit": "2024-08-24T14:33:35Z",
+            "owner": "parubok",
+            "repo": "multiline-label",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sierra",
+          "description": "Framework for simplifying development of Java Swing applications Apache 2.0 2.4 / Dec 28, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515268257,
+            "language": "Java",
+            "last_commit": "2026-08-21T21:29:12Z",
+            "owner": "HTTP-RPC",
+            "repo": "Sierra",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern Docking",
+          "description": "Modern docking framework for Java Swing MIT 0.11.6 / Jul 06, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 490081115,
+            "language": "Java",
+            "last_commit": "2026-06-14T18:26:06Z",
+            "owner": "andrewauclair",
+            "repo": "ModernDocking",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rawky",
+          "description": "A pixel art editor MIT v0.19.5.15-alpha / Apr 6, 20201",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197672095,
+            "language": "Kotlin",
+            "last_commit": "2026-07-01T07:14:07Z",
+            "owner": "DeflatedPickle",
+            "repo": "Rawky",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReflectionUI",
+          "description": "Java reflection-based GUI builder/generator MIT 5.2.10 / Jun 19, 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159641879,
+            "language": "Java",
+            "last_commit": "2026-05-10T09:09:45Z",
+            "owner": "dotxyteam",
+            "repo": "ReflectionUI",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swing Modal Dialog",
+          "description": "Library: Modal Dialog, Drawer, Toast Notification MIT v2.0 / Oct 20, 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818982435,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:07:21Z",
+            "owner": "DJ-Raven",
+            "repo": "swing-modal-dialog",
+            "stars": 156
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:12:20.977Z",
+    "last_updated": "2026-08-24T14:21:02.323Z",
     "original_repository": "parubok/awesome-swing",
     "original_repository_id": 105645202,
     "original_repository_sha": "78dac93791b024e473d249dec2fb078aa248f03a",
