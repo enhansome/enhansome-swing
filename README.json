@@ -72,7 +72,7 @@
             "archived": false,
             "id": 26921116,
             "language": "Java",
-            "last_commit": "2026-08-24T13:27:43Z",
+            "last_commit": "2026-08-26T01:09:25Z",
             "owner": "haifengl",
             "repo": "smile",
             "stars": 6413
@@ -135,7 +135,7 @@
             "last_commit": "2026-03-04T07:04:57Z",
             "owner": "mikaelgrev",
             "repo": "miglayout",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 145309300,
             "language": "Java",
-            "last_commit": "2026-08-24T22:33:55Z",
+            "last_commit": "2026-08-25T20:36:51Z",
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
             "stars": 374
@@ -552,10 +552,10 @@
             "archived": false,
             "id": 2489216,
             "language": "Java",
-            "last_commit": "2026-08-25T04:30:18Z",
+            "last_commit": "2026-08-26T00:57:46Z",
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20483
+            "stars": 20485
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-07-07T12:30:20Z",
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2615
+            "stars": 2614
           }
         },
         {
@@ -687,10 +687,10 @@
             "archived": false,
             "id": 23829681,
             "language": null,
-            "last_commit": "2026-08-24T15:37:42Z",
+            "last_commit": "2026-08-25T20:35:17Z",
             "owner": "aterai",
             "repo": "java-swing-tips",
-            "stars": 620
+            "stars": 621
           }
         },
         {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 296658,
             "language": "Java",
-            "last_commit": "2026-08-21T08:48:04Z",
+            "last_commit": "2026-08-25T15:23:11Z",
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
             "stars": 2142
@@ -870,7 +870,7 @@
             "last_commit": "2024-10-08T23:38:44Z",
             "owner": "hexadeciman",
             "repo": "Snake",
-            "stars": 379
+            "stars": 380
           }
         },
         {
@@ -897,7 +897,7 @@
             "archived": false,
             "id": 21087611,
             "language": "Java",
-            "last_commit": "2026-08-25T01:55:39Z",
+            "last_commit": "2026-08-26T00:23:53Z",
             "owner": "javadev",
             "repo": "file-manager",
             "stars": 104
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-08-14T19:33:43Z",
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9518
+            "stars": 9519
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "last_commit": "2026-07-04T14:46:02Z",
             "owner": "karakun",
             "repo": "OpenWebStart",
-            "stars": 526
+            "stars": 527
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "last_commit": "2022-05-09T06:41:36Z",
             "owner": "rodion-gudz",
             "repo": "Android-Tool",
-            "stars": 375
+            "stars": 376
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "archived": false,
             "id": 524052248,
             "language": "Java",
-            "last_commit": "2026-08-24T18:17:42Z",
+            "last_commit": "2026-08-25T18:12:39Z",
             "owner": "dheid",
             "repo": "colorpicker",
             "stars": 17
@@ -1347,7 +1347,7 @@
             "archived": false,
             "id": 444023183,
             "language": "Java",
-            "last_commit": "2026-08-21T01:14:59Z",
+            "last_commit": "2026-08-25T19:41:12Z",
             "owner": "bric3",
             "repo": "fireplace",
             "stars": 25
@@ -1448,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:34.530Z",
+    "last_updated": "2026-08-26T02:14:00.434Z",
     "original_repository": "parubok/awesome-swing",
     "original_repository_id": 105645202,
     "original_repository_sha": "78dac93791b024e473d249dec2fb078aa248f03a",
