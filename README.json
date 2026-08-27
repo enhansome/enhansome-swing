@@ -72,7 +72,7 @@
             "archived": false,
             "id": 26921116,
             "language": "Java",
-            "last_commit": "2026-08-27T03:25:47Z",
+            "last_commit": "2026-08-27T11:40:06Z",
             "owner": "haifengl",
             "repo": "smile",
             "stars": 6413
@@ -552,7 +552,7 @@
             "archived": false,
             "id": 2489216,
             "language": "Java",
-            "last_commit": "2026-08-27T10:15:06Z",
+            "last_commit": "2026-08-27T11:59:58Z",
             "owner": "JetBrains",
             "repo": "intellij-community",
             "stars": 20489
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-26T19:21:10Z",
             "owner": "aterai",
             "repo": "java-swing-tips",
-            "stars": 622
+            "stars": 623
           }
         },
         {
@@ -897,7 +897,7 @@
             "archived": false,
             "id": 21087611,
             "language": "Java",
-            "last_commit": "2026-08-26T00:23:53Z",
+            "last_commit": "2026-08-27T10:39:12Z",
             "owner": "javadev",
             "repo": "file-manager",
             "stars": 104
@@ -1002,7 +1002,7 @@
             "archived": false,
             "id": 688352,
             "language": "Java",
-            "last_commit": "2026-08-27T07:55:43Z",
+            "last_commit": "2026-08-27T11:30:17Z",
             "owner": "apache",
             "repo": "jmeter",
             "stars": 9518
@@ -1448,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:34:32.631Z",
+    "last_updated": "2026-08-27T12:04:35.102Z",
     "original_repository_info": {
       "archived": false,
       "id": 105645202,
