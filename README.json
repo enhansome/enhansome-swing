@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 4404412,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-13T09:07:27Z",
+            "open_issues": 23,
             "owner": "jgraph",
             "repo": "jgraphx",
-            "stars": 692
+            "stars": 692,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structured 2D Graphics Framework",
+            "homepage": "http://piccolo2d.org",
             "id": 40444182,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-15T23:19:38Z",
+            "open_issues": 7,
             "owner": "piccolo2d",
             "repo": "piccolo2d.java",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -42,12 +52,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 2D chart library for Java applications (JavaFX, Swing or server-side).",
+            "homepage": "http://www.jfree.org/jfreechart/",
             "id": 50873393,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2025-11-22T13:28:08Z",
+            "open_issues": 161,
             "owner": "jfree",
             "repo": "jfreechart",
-            "stars": 1391
+            "stars": 1391,
+            "topics": [
+              "charts",
+              "data-visualization",
+              "java2d",
+              "javafx",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -58,12 +79,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, lightweight PDF generator for the Java platform",
+            "homepage": "https://github.com/jfree/orsonpdf",
             "id": 12557372,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-06T18:00:33Z",
+            "open_issues": 3,
             "owner": "jfree",
             "repo": "orsonpdf",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "graphics2d",
+              "java-library",
+              "java2d",
+              "pdf"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -74,12 +105,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statistical Machine Intelligence & Learning Engine",
+            "homepage": "https://haifengl.github.io",
             "id": 26921116,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T00:53:17Z",
+            "open_issues": 1,
             "owner": "haifengl",
             "repo": "smile",
-            "stars": 6413
+            "stars": 6414,
+            "topics": [
+              "classification",
+              "clustering",
+              "computer-algebra-system",
+              "computer-vision",
+              "data-science",
+              "dataframe",
+              "deep-learning",
+              "genetic-algorithm",
+              "interpolation",
+              "linear-algebra",
+              "llm",
+              "machine-learning",
+              "manifold-learning",
+              "multidimensional-scaling",
+              "nearest-neighbor-search",
+              "nlp",
+              "regression",
+              "statistics",
+              "visualization",
+              "wavelet"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -90,12 +147,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A syntax highlighting, code folding text editor for Java Swing applications.",
+            "homepage": null,
             "id": 11966919,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T18:15:06Z",
+            "open_issues": 125,
             "owner": "bobbylight",
             "repo": "RSyntaxTextArea",
-            "stars": 1251
+            "stars": 1251,
+            "topics": [
+              "code-editor",
+              "java-swing-applications",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -106,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XML/XHTML and CSS 2.1 renderer in pure Java",
+            "homepage": null,
             "id": 618681,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T21:08:32Z",
+            "open_issues": 35,
             "owner": "flyingsaucerproject",
             "repo": "flyingsaucer",
-            "stars": 2236
+            "stars": 2236,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -122,12 +193,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lobo Evolution Java Web Browser. Forks welcome! ",
+            "homepage": "https://loboevolution.github.io/LoboEvolution/project-info.html",
             "id": 25392674,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:16:44Z",
+            "open_issues": 3,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "browser",
+              "browser-api",
+              "browser-css",
+              "css",
+              "cssparser",
+              "java",
+              "java-8",
+              "javascript",
+              "lobo-browser",
+              "lobo-evolution",
+              "pure-java",
+              "rhino",
+              "svg",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -138,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official MiG Layout for Swing, SWT and JavaFX",
+            "homepage": "miglayout.com",
             "id": 36735187,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-03-04T07:04:57Z",
+            "open_issues": 24,
             "owner": "mikaelgrev",
             "repo": "miglayout",
-            "stars": 487
+            "stars": 487,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -154,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Table-based layout for Java UI toolkits: libgdx, Swing, Android, TWL",
+            "homepage": null,
             "id": 14173209,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-04-04T12:42:10Z",
+            "open_issues": 3,
             "owner": "EsotericSoftware",
             "repo": "tablelayout",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -170,12 +271,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very basic layered font icon utility for Java Swing.",
+            "homepage": null,
             "id": 594678809,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-05T18:15:13Z",
+            "open_issues": 0,
             "owner": "mimoguz",
             "repo": "layeredfonticon",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "font-icon",
+              "icon-font",
+              "java",
+              "swing",
+              "swing-gui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -186,12 +298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JXMapViewer2",
+            "homepage": null,
             "id": 4564034,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2025-11-18T07:06:09Z",
+            "open_issues": 15,
             "owner": "msteiger",
             "repo": "jxmapviewer2",
-            "stars": 213
+            "stars": 213,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -202,12 +319,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache XML Graphics Batik",
+            "homepage": "https://xmlgraphics.apache.org/batik/",
             "id": 206445,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-06-03T11:17:51Z",
+            "open_issues": 22,
             "owner": "apache",
             "repo": "xmlgraphics-batik",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "apache",
+              "batik"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -218,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 58847568,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-12-04T02:41:18Z",
+            "open_issues": 21,
             "owner": "blackears",
             "repo": "svgSalamander",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -234,12 +364,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, lightweight Java library for creating Scalable Vector Graphics (SVG) output.",
+            "homepage": "http://www.jfree.org/jfreesvg",
             "id": 11332115,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-17T09:26:27Z",
+            "open_issues": 11,
             "owner": "jfree",
             "repo": "jfreesvg",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "java",
+              "java-library",
+              "java2d",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -250,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing Date Picker. Easy to use, good looking, nice features, and localized. Uses the JSR-310 standard. ",
+            "homepage": null,
             "id": 52056522,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-08-10T21:18:22Z",
+            "open_issues": 24,
             "owner": "LGoodDatePicker",
             "repo": "LGoodDatePicker",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -266,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JDatePicker: Java Swing Date Picker",
+            "homepage": null,
             "id": 22173392,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-06T16:54:15Z",
+            "open_issues": 13,
             "owner": "JDatePicker",
             "repo": "JDatePicker",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -282,12 +432,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code demos for the yFiles for Java Swing diagramming library",
+            "homepage": "https://yworks.com/yfilesjava",
             "id": 196159476,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T16:38:51Z",
+            "open_issues": 0,
             "owner": "yWorks",
             "repo": "yfiles-for-java-swing-demos",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "demos",
+              "diagramming",
+              "graph",
+              "graphics",
+              "gui",
+              "java",
+              "library",
+              "swing",
+              "visualization",
+              "yfiles"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -298,12 +464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful Java Swing panel/layout with cool transitions involving sliding subpanels",
+            "homepage": null,
             "id": 5798873,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-04-04T10:55:46Z",
+            "open_issues": 3,
             "owner": "AurelienRibon",
             "repo": "sliding-layout",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -314,12 +485,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebLaF is a fully open-source Look & Feel and component library written in pure Java for cross-platform desktop Swing applications.",
+            "homepage": "http://weblookandfeel.com",
             "id": 10596740,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-02T10:05:23Z",
+            "open_issues": 200,
             "owner": "mgarin",
             "repo": "weblaf",
-            "stars": 1178
+            "stars": 1178,
+            "topics": [
+              "components",
+              "cross-platform",
+              "java",
+              "look-and-feel",
+              "skin",
+              "swing",
+              "swing-components",
+              "ui",
+              "weblaf"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -330,12 +516,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Darklaf - A themeable swing Look and Feel based on Darcula-Laf",
+            "homepage": null,
             "id": 207628269,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-09-16T08:06:02Z",
+            "open_issues": 27,
             "owner": "weisJ",
             "repo": "darklaf",
-            "stars": 474
+            "stars": 474,
+            "topics": [
+              "darcula",
+              "darcula-theme",
+              "feel",
+              "gui",
+              "hacktoberfest",
+              "intellij",
+              "intellij-theme",
+              "laf",
+              "look",
+              "lookandfeel",
+              "native",
+              "solarized",
+              "solarized-dark-theme",
+              "solarized-light-theme",
+              "svg",
+              "swing",
+              "theme",
+              "themes"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -346,12 +556,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: :hearts: A modern Material Design UI for Java Swing :octocat: :hearts:",
+            "homepage": "https://material-ui-swing.github.io",
             "id": 141935742,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-05-07T11:14:11Z",
+            "open_issues": 18,
             "owner": "vincenzopalazzo",
             "repo": "material-ui-swing",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "hacktoberfest",
+              "java",
+              "java-swing",
+              "java-swing-library",
+              "look-and-feel",
+              "material",
+              "material-design",
+              "material-java",
+              "material-look-and-feel",
+              "material-swing",
+              "material-theme",
+              "material-ui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -362,12 +590,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new Look-and-Feel (LaF) for Java, which allows for a grid-based display of Unicode characters with custom fore/background colors, font sizes, and pseudo-shaders. Originally designed for developing Roguelike/lite games.",
+            "homepage": "https://www.valkryst.com/posts?search=VTerminal",
             "id": 91964549,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T11:52:52Z",
+            "open_issues": 2,
             "owner": "Valkryst",
             "repo": "VTerminal",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "2d",
+              "2d-framework",
+              "2d-game",
+              "2d-game-engine",
+              "2d-graphics",
+              "ascii",
+              "discord",
+              "font",
+              "game-engine",
+              "gamedev",
+              "hacktoberfest",
+              "laf",
+              "look-and-feel",
+              "roguelike",
+              "roguelike-library",
+              "roguelike-tiles",
+              "swing",
+              "terminal",
+              "tiles",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -378,12 +632,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building modern, elegant and fast Swing applications",
+            "homepage": null,
             "id": 132473990,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-10T21:13:28Z",
+            "open_issues": 10,
             "owner": "kirill-grouchnikov",
             "repo": "radiance",
-            "stars": 905
+            "stars": 905,
+            "topics": [
+              "animation",
+              "components",
+              "cross-platform",
+              "desktop",
+              "icons",
+              "kotlin",
+              "look-and-feel",
+              "svg",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -394,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java/Swing GUI testing made simple!",
+            "homepage": null,
             "id": 2845921,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-03-24T16:50:28Z",
+            "open_issues": 10,
             "owner": "UISpec4J",
             "repo": "UISpec4J",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -410,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple framework which allows the testing of Swing and JavaFX2 applications.",
+            "homepage": null,
             "id": 13226191,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2017-12-05T20:03:20Z",
+            "open_issues": 13,
             "owner": "renatoathaydes",
             "repo": "Automaton",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -426,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava bindings for Swing",
+            "homepage": null,
             "id": 23095986,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-26T08:48:53Z",
+            "open_issues": 20,
             "owner": "ReactiveX",
             "repo": "RxSwing",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -442,12 +726,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zircon is an extensible and user-friendly, multiplatform tile engine.",
+            "homepage": "https://hexworks.org/projects/zircon/",
             "id": 94116947,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-24T17:46:18Z",
+            "open_issues": 43,
             "owner": "Hexworks",
             "repo": "zircon",
-            "stars": 797
+            "stars": 797,
+            "topics": [
+              "game-development",
+              "java",
+              "jvm",
+              "kotlin",
+              "multiplatform",
+              "roguelike",
+              "scala",
+              "text-gui",
+              "zircon"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -458,12 +757,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source List Transformations for Java",
+            "homepage": null,
             "id": 18942355,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-11T21:45:34Z",
+            "open_issues": 148,
             "owner": "glazedlists",
             "repo": "glazedlists",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "collections",
+              "glazedlists",
+              "java",
+              "list-transformation"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -474,12 +783,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: JVM game engine based on Swing/JavaFX.",
+            "homepage": "https://icela.github.io/#getting-started",
             "id": 65617268,
             "language": "Kotlin",
+            "license": "AGPL-3.0",
             "last_commit": "2019-12-28T15:45:18Z",
+            "open_issues": 0,
             "owner": "icela",
             "repo": "FriceEngine",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "engine",
+              "frice-engine",
+              "game",
+              "game-engine",
+              "java",
+              "javafx",
+              "jvm",
+              "kotlin",
+              "platform-independent",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -490,12 +815,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform SystemTray support for Swing/AWT, macOS, GtkStatusIcon, and AppIndicator on Java 8+",
+            "homepage": null,
             "id": 26098797,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-14T22:58:34Z",
+            "open_issues": 31,
             "owner": "dorkbox",
             "repo": "SystemTray",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "appindicator",
+              "awt",
+              "cross-platform",
+              "desktop",
+              "desktop-environment",
+              "gnome",
+              "gtk",
+              "gtk3",
+              "java",
+              "jna",
+              "linux",
+              "mac-osx",
+              "swing",
+              "swt",
+              "systemtray",
+              "tray-icon",
+              "tray-menu",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -506,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The DragonConsole is a cross platform Java based Terminal Emulator.",
+            "homepage": null,
             "id": 4627209,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-26T01:04:39Z",
+            "open_issues": 7,
             "owner": "bbuck",
             "repo": "DragonConsole",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -522,12 +876,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APKToolBoxGUI is a handy tool for programmer with user-friendly GUI.",
+            "homepage": null,
             "id": 145309300,
             "language": "Java",
-            "last_commit": "2026-08-28T04:11:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:48:19Z",
+            "open_issues": 17,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "convert",
+              "encoding",
+              "password",
+              "recovery"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -538,12 +902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure Java Terminal Emulator. Works with SSH and PTY.",
+            "homepage": null,
             "id": 7544679,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-30T20:36:11Z",
+            "open_issues": 51,
             "owner": "JetBrains",
             "repo": "jediterm",
-            "stars": 858
+            "stars": 859,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -554,12 +923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swing text console component",
+            "homepage": null,
             "id": 5825858,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-08-27T06:11:49Z",
+            "open_issues": 0,
             "owner": "mikera",
             "repo": "swing-console",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -570,12 +944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swing text console component",
+            "homepage": null,
             "id": 5825858,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-08-27T06:11:49Z",
+            "open_issues": 0,
             "owner": "mikera",
             "repo": "swing-console",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -586,12 +965,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IntelliJ IDEA & IntelliJ Platform",
+            "homepage": "https://jetbrains.com/idea",
             "id": 2489216,
             "language": "Java",
-            "last_commit": "2026-08-28T12:02:00Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:09:26Z",
+            "open_issues": 154,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20492
+            "stars": 20495,
+            "topics": [
+              "code-editor",
+              "ide",
+              "intellij",
+              "intellij-community",
+              "intellij-platform"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -602,12 +992,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java library for creating text-based GUIs",
+            "homepage": null,
             "id": 38230607,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-07T12:30:20Z",
+            "open_issues": 95,
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2616
+            "stars": 2616,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -618,12 +1013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Generic Swing Application Framework",
+            "homepage": null,
             "id": 52103978,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-10T14:38:20Z",
+            "open_issues": 2,
             "owner": "pgdurand",
             "repo": "jGAF",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -634,12 +1034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiXml, is a small GUI generating engine for Java applications and applets.",
+            "homepage": "http://www.swixml.org",
             "id": 1656999,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2014-12-28T01:04:36Z",
+            "open_issues": 7,
             "owner": "swixml",
             "repo": "Two",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -650,12 +1055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiXml, is a small GUI generating engine for Java applications and applets.",
+            "homepage": "http://www.swixml.org",
             "id": 1656999,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2014-12-28T01:04:36Z",
+            "open_issues": 7,
             "owner": "swixml",
             "repo": "Two",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -666,12 +1076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java library for using the touchbar API on supported macbooks.",
+            "homepage": null,
             "id": 108015422,
             "language": "Objective-C++",
+            "license": "MIT",
             "last_commit": "2021-09-21T14:10:39Z",
+            "open_issues": 16,
             "owner": "Thizzer",
             "repo": "jtouchbar",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -682,12 +1097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java file chooser API that uses the Windows native dialogs if possible.",
+            "homepage": null,
             "id": 1178621,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-14T17:11:30Z",
+            "open_issues": 7,
             "owner": "steos",
             "repo": "jnafilechooser",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -698,12 +1118,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A split button control for Java Swing.",
+            "homepage": "http://rhwood.github.io/jsplitbutton/",
             "id": 48914542,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:40:19Z",
+            "open_issues": 1,
             "owner": "rhwood",
             "repo": "jsplitbutton",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "java",
+              "split-button",
+              "swing",
+              "swing-component",
+              "swing-gui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -714,12 +1145,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Creates fast and easy dialogs for utility tools",
+            "homepage": null,
             "id": 203447822,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-10T19:02:57Z",
+            "open_issues": 5,
             "owner": "Milchreis",
             "repo": "UiBooster",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "cli",
+              "confirmation-dialog",
+              "dark-theme",
+              "dialog",
+              "easy-dialogs",
+              "fast",
+              "form",
+              "gui",
+              "java",
+              "login",
+              "login-dialog",
+              "progress-dialog",
+              "selection-dialog",
+              "swing",
+              "table",
+              "table-dialog",
+              "ui",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -730,12 +1185,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing example.",
+            "homepage": "https://ateraimemo.com/en/Swing.html",
             "id": 23829681,
             "language": null,
-            "last_commit": "2026-08-27T19:04:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:04:43Z",
+            "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "examples",
+              "java",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -746,12 +1210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JTreeTable implementation",
+            "homepage": null,
             "id": 50139201,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-01T15:28:45Z",
+            "open_issues": 1,
             "owner": "javagl",
             "repo": "JTreeTable",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -762,12 +1231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JTreeTable implementation",
+            "homepage": null,
             "id": 50139201,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-01T15:28:45Z",
+            "open_issues": 1,
             "owner": "javagl",
             "repo": "JTreeTable",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -778,12 +1252,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptation of JavaFX properties for Swing.",
+            "homepage": null,
             "id": 272687971,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-01-04T20:01:17Z",
+            "open_issues": 0,
             "owner": "parubok",
             "repo": "swing-fx-properties",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "java",
+              "javafx",
+              "property-binding",
+              "swing",
+              "swing-gui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -794,12 +1279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwingX development source code salvaged from SVN before java.net went down",
+            "homepage": null,
             "id": 115294924,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-01-24T16:08:41Z",
+            "open_issues": 1,
             "owner": "arotenberg",
             "repo": "swingx",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -810,12 +1300,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing Custom Controls",
+            "homepage": null,
             "id": 141679675,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-26T18:43:47Z",
+            "open_issues": 5,
             "owner": "k33ptoo",
             "repo": "KControls",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "drag",
+              "drag-utility",
+              "gradient",
+              "jar",
+              "java",
+              "java-swing",
+              "javaswing",
+              "kbutton",
+              "library",
+              "mouse"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -826,12 +1332,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swing introspector, shows a hierarchy of dialog's elements under the cursor.",
+            "homepage": null,
             "id": 102981193,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2017-09-09T20:25:16Z",
+            "open_issues": 0,
             "owner": "igr",
             "repo": "swingspy",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "java",
+              "swing",
+              "swing-gui",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -842,12 +1358,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for creating interactive console applications in Java",
+            "homepage": "http://text-io.beryx.org/",
             "id": 73326848,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-02T08:49:43Z",
+            "open_issues": 17,
             "owner": "beryx",
             "repo": "text-io",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "console",
+              "text-based"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -858,12 +1382,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swing UI Enhacements",
+            "homepage": null,
             "id": 4855448,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-04-16T22:21:03Z",
+            "open_issues": 22,
             "owner": "eugener",
             "repo": "oxbow",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "dialog",
+              "filter",
+              "java",
+              "jtable",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -874,12 +1409,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scala wrappers for Java's Swing API for desktop GUIs",
+            "homepage": null,
             "id": 14881281,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T23:17:46Z",
+            "open_issues": 20,
             "owner": "scala",
             "repo": "scala-swing",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "desktop",
+              "gui",
+              "scala",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -890,12 +1435,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java's ImageIO",
+            "homepage": "https://haraldk.github.io/TwelveMonkeys/",
             "id": 296658,
             "language": "Java",
-            "last_commit": "2026-08-28T12:04:54Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T15:47:48Z",
+            "open_issues": 57,
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
-            "stars": 2143
+            "stars": 2143,
+            "topics": [
+              "bmp",
+              "icc-profiles",
+              "icns",
+              "iff",
+              "imageio",
+              "java",
+              "java-imageio",
+              "jpeg",
+              "pbm",
+              "pcx",
+              "pgm",
+              "pict",
+              "plug-ins",
+              "ppm",
+              "psd",
+              "svg",
+              "tga",
+              "tiff",
+              "twelvemonkeys-imageio",
+              "webp"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -906,12 +1477,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWT Color Factory",
+            "homepage": "https://github.com/beryx/awt-color-factory",
             "id": 139198021,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2020-08-02T10:59:28Z",
+            "open_issues": 0,
             "owner": "beryx",
             "repo": "awt-color-factory",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "awt",
+              "color"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -922,12 +1501,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple snake game in java - Well documented",
+            "homepage": null,
             "id": 16499586,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-10-08T23:38:44Z",
+            "open_issues": 26,
             "owner": "hexadeciman",
             "repo": "Snake",
-            "stars": 380
+            "stars": 380,
+            "topics": [
+              "game",
+              "java",
+              "snake-game",
+              "swing",
+              "swing-gui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -938,12 +1528,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BatBat :battery::zap: is an easy and free Maven Java game run in Spring Boot. ",
+            "homepage": "https://www.facebook.com/BatBatGame",
             "id": 91010224,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-04-14T12:13:18Z",
+            "open_issues": 1,
             "owner": "tonikolaba",
             "repo": "BatBat-Game",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "awt",
+              "awt-game",
+              "batbat",
+              "batbat-game",
+              "game",
+              "game-development",
+              "gaming",
+              "heroku",
+              "java",
+              "java-game",
+              "java-platform",
+              "javagame",
+              "jframe",
+              "jpanel",
+              "junit",
+              "junit5",
+              "maven",
+              "maven-pom",
+              "spring",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -954,12 +1570,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A java/swing basic File Manager",
+            "homepage": null,
             "id": 21087611,
             "language": "Java",
-            "last_commit": "2026-08-28T00:43:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:34:03Z",
+            "open_issues": 0,
             "owner": "javadev",
             "repo": "file-manager",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "file-manager",
+              "java",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -970,12 +1595,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Java project includes classes related to desktop applications, Swing, performance, image processing, data structures, and other misc topics.",
+            "homepage": "https://mickleness.github.io/pumpernickel/",
             "id": 64222790,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-11-05T07:48:02Z",
+            "open_issues": 35,
             "owner": "mickleness",
             "repo": "pumpernickel",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "desktop-app",
+              "java",
+              "swing",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -986,12 +1621,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Boot 3 + Java 17 desktop application with Docker Compose  and PostgreSQL. Includes static code analysis (PMD, Checkstyle)  and CI via GitHub Actions.",
+            "homepage": "https://www.danielmichalski.com",
             "id": 51751326,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-02-02T16:04:50Z",
+            "open_issues": 0,
             "owner": "DanielMichalski",
             "repo": "spring-boot-swing-reservation-system",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "checkstyle",
+              "docker",
+              "findbugs",
+              "hibernate",
+              "java",
+              "java-swing",
+              "java17",
+              "java17-spring-boot",
+              "jpa",
+              "jpa-hibernate",
+              "liquibase",
+              "maven-wrapper",
+              "postgresql",
+              "spring",
+              "spring-boot",
+              "spring-data",
+              "springboot",
+              "starter-template",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1002,12 +1662,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The user-friendly, plain-text editor with Hybrid Encryption.",
+            "homepage": "https://cypher-notepad.github.io/",
             "id": 171345481,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-28T14:27:44Z",
+            "open_issues": 0,
             "owner": "Cypher-Notepad",
             "repo": "Cypher-Notepad",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "aes",
+              "crpyto",
+              "cypher-notepad",
+              "editor",
+              "encryption",
+              "encrypts",
+              "java",
+              "linux",
+              "notepad",
+              "rsa",
+              "text-editor",
+              "utility",
+              "windows",
+              "windows-app"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1018,12 +1698,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":closed_lock_with_key: Password manager application with strong encryption (AES-256). [Java/Swing]",
+            "homepage": null,
             "id": 23666993,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-24T08:11:20Z",
+            "open_issues": 4,
             "owner": "gaborbata",
             "repo": "jpass",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "aes-256",
+              "application",
+              "cross-platform",
+              "desktop",
+              "desktop-application",
+              "encryption",
+              "java",
+              "password-generator",
+              "password-manager",
+              "password-store",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1034,12 +1731,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":closed_lock_with_key: Password manager application with strong encryption (AES-256). [Java/Swing]",
+            "homepage": null,
             "id": 23666993,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-24T08:11:20Z",
+            "open_issues": 4,
             "owner": "gaborbata",
             "repo": "jpass",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "aes-256",
+              "application",
+              "cross-platform",
+              "desktop",
+              "desktop-application",
+              "encryption",
+              "java",
+              "password-generator",
+              "password-manager",
+              "password-store",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1050,12 +1764,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross platform password manager.",
+            "homepage": "http://goryachev.com/products/password-safe/index.html",
             "id": 30781883,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-21T05:46:18Z",
+            "open_issues": 4,
             "owner": "andy-goryachev",
             "repo": "PasswordSafe",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "argon2",
+              "bouncycastle",
+              "cross-platform",
+              "java",
+              "linux",
+              "password-manager",
+              "security",
+              "swing",
+              "xsalsa20",
+              "xsalsa20poly1305"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1066,12 +1796,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
+            "homepage": "https://jmeter.apache.org/",
             "id": 688352,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:30:17Z",
+            "open_issues": 971,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9519
+            "stars": 9521,
+            "topics": [
+              "java",
+              "performance",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1082,12 +1821,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calculator app created with Java Swing, It is simple with an easy code to help novices learn how to operate a calculator.",
+            "homepage": null,
             "id": 119902704,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-07-30T02:40:06Z",
+            "open_issues": 95,
             "owner": "HouariZegai",
             "repo": "Calculator",
-            "stars": 735
+            "stars": 735,
+            "topics": [
+              "calculator",
+              "calculator-app",
+              "calculator-application",
+              "java",
+              "java-project",
+              "java-swing",
+              "swing",
+              "swing-gui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1098,12 +1851,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI Components for (Java) Swing",
+            "homepage": "http://www.sing-group.org/gc4s/",
             "id": 27824737,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2023-11-23T09:35:17Z",
+            "open_issues": 1,
             "owner": "sing-group",
             "repo": "GC4S",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "gui",
+              "gui-components",
+              "java",
+              "library",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1114,12 +1878,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an adaption of Peter Österlund's CuckooChess 1.12. The source code provided is a Java Maven project in UTF-8. The program, except for the chess font, is copyrighted by Peter Österlund, and is available as open source under the GNU GPL v3 license.",
+            "homepage": "https://sauce-code.github.io/cuckoo/",
             "id": 98561502,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-03T04:06:20Z",
+            "open_issues": 2,
             "owner": "sauce-code",
             "repo": "cuckoo",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "chess",
+              "chess-ai",
+              "chess-application",
+              "chess-engine",
+              "cuckoo",
+              "gui",
+              "java",
+              "java-8",
+              "java-maven",
+              "java-swing",
+              "java8",
+              "maven",
+              "swing",
+              "swing-gui",
+              "tui",
+              "uci",
+              "utf-8",
+              "utf8"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1130,12 +1920,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple library for generating Java2D (Swing/AWT) and JavaFX icons in Java, with SWT support in an add-on.",
+            "homepage": null,
             "id": 45975451,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-14T13:48:29Z",
+            "open_issues": 0,
             "owner": "sshtools",
             "repo": "icon-generator",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "awt",
+              "fontawesome",
+              "generator",
+              "icons",
+              "java",
+              "javafx",
+              "swing",
+              "swt"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1146,12 +1950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing Library",
+            "homepage": null,
             "id": 27034359,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-12-17T09:26:58Z",
+            "open_issues": 1,
             "owner": "oliverwatkins",
             "repo": "swing_library",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1162,12 +1971,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Server-side library for running Swing applications remotely",
+            "homepage": "https://youtrack.jetbrains.com/issues/PRJ",
             "id": 267844792,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-21T02:33:24Z",
+            "open_issues": 5,
             "owner": "JetBrains",
             "repo": "projector-server",
-            "stars": 1252
+            "stars": 1252,
+            "topics": [
+              "awt",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1178,12 +1995,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey",
+            "homepage": "https://hvdwolf.github.io/jExifToolGUI/",
             "id": 187222374,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-11T23:08:29Z",
+            "open_issues": 41,
             "owner": "hvdwolf",
             "repo": "jExifToolGUI",
-            "stars": 573
+            "stars": 573,
+            "topics": [
+              "exiftool",
+              "frontend",
+              "java",
+              "multi-platform",
+              "swing-gui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1194,12 +2022,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rest API Testing for Professional",
+            "homepage": null,
             "id": 226641133,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-31T16:54:40Z",
+            "open_issues": 0,
             "owner": "supanadit",
             "repo": "restsuite",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "api",
+              "api-rest",
+              "api-testing",
+              "client",
+              "developer-tools",
+              "java",
+              "java-swing",
+              "java-swing-application",
+              "java-swing-applications",
+              "rest-api",
+              "rest-api-test",
+              "rest-api-tests",
+              "swing",
+              "swing-gui",
+              "testing",
+              "testing-tools",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1210,12 +2061,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library that makes developing Swing applications on Jython much less painful",
+            "homepage": null,
             "id": 35814585,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-01-23T11:35:38Z",
+            "open_issues": 0,
             "owner": "jython",
             "repo": "swingutils",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1226,12 +2082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Python for the Java Platform",
+            "homepage": "https://www.jython.org",
             "id": 282480317,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T06:50:54Z",
+            "open_issues": 99,
             "owner": "jython",
             "repo": "jython",
-            "stars": 1536
+            "stars": 1536,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1242,12 +2103,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing Framework for layout and emplacement of various ZElements (drawn shapes and other more complex items) on a canvas (the ZCanvas) that supports a z-plane layer.",
+            "homepage": null,
             "id": 133154239,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2024-10-03T17:04:18Z",
+            "open_issues": 1,
             "owner": "kkieffer",
             "repo": "jZELD",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "canvas",
+              "drawing",
+              "drawing-app",
+              "drawn-shapes",
+              "freeform",
+              "java",
+              "shapes",
+              "svg",
+              "swing-component",
+              "vector-graphics",
+              "z-order"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1258,12 +2136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Web Start based applications after the release of Java 11",
+            "homepage": "https://openwebstart.com",
             "id": 187595602,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-04T14:46:02Z",
+            "open_issues": 129,
             "owner": "karakun",
             "repo": "OpenWebStart",
-            "stars": 528
+            "stars": 528,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1274,12 +2157,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern GUI for FutureRestore, with added features to make the process easier.",
+            "homepage": null,
             "id": 344193453,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2023-03-27T20:13:59Z",
+            "open_issues": 37,
             "owner": "CoocooFroggy",
             "repo": "FutureRestore-GUI",
-            "stars": 565
+            "stars": 565,
+            "topics": [
+              "futurerestore",
+              "futurerestore-gui",
+              "java",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1290,12 +2183,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing InputVerifier that adds an icon and tooltip to the component for invalid states.",
+            "homepage": "https://rhwood.github.io/jinputvalidator/",
             "id": 191156809,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:40:48Z",
+            "open_issues": 2,
             "owner": "rhwood",
             "repo": "jinputvalidator",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "java",
+              "swing",
+              "swing-component"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1306,12 +2208,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for working with Java Swing components via Java 8 streams.",
+            "homepage": null,
             "id": 271774514,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-29T07:48:47Z",
+            "open_issues": 0,
             "owner": "parubok",
             "repo": "swing-stream-utils",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "java-8",
+              "java-swing",
+              "jcombobox",
+              "jtable",
+              "jtree",
+              "streams-api",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1322,12 +2237,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java library for detecting that the (desktop) operating system uses dark UI theme or not",
+            "homepage": null,
             "id": 308948797,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-10T21:45:30Z",
+            "open_issues": 23,
             "owner": "Dansoftowner",
             "repo": "jSystemThemeDetector",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "desktop",
+              "java",
+              "java-library",
+              "java-native-access",
+              "javafx",
+              "jfa",
+              "jna",
+              "linux",
+              "macos",
+              "macosx",
+              "native-library",
+              "swing",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1338,12 +2272,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java Swing library for making high-quality complex layouts easy. And then some.",
+            "homepage": null,
             "id": 321362663,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-02-07T20:54:53Z",
+            "open_issues": 1,
             "owner": "codeworth-gh",
             "repo": "PanelMatic",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "builder-pattern",
+              "java",
+              "swing",
+              "swing-gui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1354,12 +2298,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Program, created to make popular adb and fastboot commands easier to use  ",
+            "homepage": null,
             "id": 283022597,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2022-05-09T06:41:36Z",
+            "open_issues": 1,
             "owner": "rodion-gudz",
             "repo": "Android-Tool",
-            "stars": 376
+            "stars": 376,
+            "topics": [
+              "adb",
+              "android",
+              "android-adb",
+              "android-development",
+              "android-sdk",
+              "fastboot",
+              "jar",
+              "kotlin",
+              "logcat",
+              "pixel",
+              "recovery",
+              "sdk",
+              "swing",
+              "system-apps",
+              "xiaomi"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1370,12 +2335,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java application that relies on the host system's information. It is meant to function as a lightweight UI for quick interaction with the system and Internet, as a standalone application or boot option. This is the main Secres product as it combines all other Secres applications into one.",
+            "homepage": null,
             "id": 362355110,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-14T19:48:28Z",
+            "open_issues": 0,
             "owner": "PranavAmarnath",
             "repo": "SecresOS",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "desktop-environment",
+              "java",
+              "javafx",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1386,12 +2361,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A remote linux SSH connections manager, It can save frequently used commands.",
+            "homepage": null,
             "id": 172343102,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-02-04T14:04:49Z",
+            "open_issues": 1,
             "owner": "HaleyWang",
             "repo": "SpringRemote",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "java",
+              "kotlin",
+              "sftp-client",
+              "ssh",
+              "swing",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1402,12 +2389,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual implementation of OSHI, to view information about the system and hardware.",
+            "homepage": "https://rememberber.github.io/MooInfo/",
             "id": 432400286,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-25T12:38:43Z",
+            "open_issues": 4,
             "owner": "rememberber",
             "repo": "MooInfo",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "flatlaf",
+              "hardware",
+              "java",
+              "os",
+              "oshi",
+              "swing",
+              "system"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1418,12 +2418,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nice color picker using Java Swing that contains a visual color selection and input boxes to enter RGB and HSB values manually.",
+            "homepage": "https://www.daniel-heid.de/open-source-projekte/",
             "id": 524052248,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T18:17:46Z",
+            "open_issues": 4,
             "owner": "dheid",
             "repo": "colorpicker",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "awt",
+              "desktop",
+              "gui",
+              "java-swing",
+              "multiplatform",
+              "swing",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1434,12 +2447,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flamegraph (Iciclegraph) swing component",
+            "homepage": null,
             "id": 444023183,
             "language": "Java",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T19:41:12Z",
+            "open_issues": 25,
             "owner": "bric3",
             "repo": "fireplace",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "flamegraph",
+              "iciclegraph",
+              "java",
+              "jfr",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1450,12 +2474,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing component to display multiline plain text.",
+            "homepage": null,
             "id": 285054794,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-24T14:33:35Z",
+            "open_issues": 0,
             "owner": "parubok",
             "repo": "multiline-label",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "java-11",
+              "java-module",
+              "swing",
+              "swing-component"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1466,12 +2500,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative UI for Java",
+            "homepage": null,
             "id": 515268257,
             "language": "Java",
-            "last_commit": "2026-08-27T17:23:15Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:09:29Z",
+            "open_issues": 0,
             "owner": "HTTP-RPC",
             "repo": "Sierra",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "charts",
+              "declarative-ui",
+              "gui",
+              "java",
+              "swing",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1482,12 +2528,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight docking framework for Java Swing with drag-and-drop panels, floating windows, split/tabbed layouts, auto-hide, and layout persistence. Zero dependencies. Java 11+.",
+            "homepage": "https://moderndocking.readthedocs.io/en/latest/",
             "id": 490081115,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-06-14T18:26:06Z",
+            "open_issues": 19,
             "owner": "andrewauclair",
             "repo": "ModernDocking",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "docking",
+              "java",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1498,12 +2553,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pixel art editor",
+            "homepage": null,
             "id": 197672095,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-07-01T07:14:07Z",
+            "open_issues": 20,
             "owner": "DeflatedPickle",
             "repo": "Rawky",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "gradle",
+              "kotlin",
+              "pixel-art",
+              "pixel-art-maker",
+              "pixel-editor",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1514,12 +2581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java reflection-based GUI builder/generator",
+            "homepage": null,
             "id": 159641879,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-05-10T09:09:45Z",
+            "open_issues": 5,
             "owner": "dotxyteam",
             "repo": "ReflectionUI",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         },
@@ -1530,12 +2602,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Swing UI library custom with FlatLaf",
+            "homepage": null,
             "id": 818982435,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:54:16Z",
+            "open_issues": 4,
             "owner": "DJ-Raven",
             "repo": "swing-modal-dialog",
-            "stars": 158
+            "stars": 159,
+            "topics": [
+              "desktop",
+              "flatlaf",
+              "java-swing",
+              "modal-dialog",
+              "swing",
+              "swing-modal-dialog",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
         }
@@ -1544,15 +2629,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:14:55.394Z",
+    "last_updated": "2026-08-29T04:43:47.229Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
+      "homepage": null,
       "id": 105645202,
       "language": null,
+      "license": null,
       "last_commit": "2024-12-29T06:39:20Z",
+      "open_issues": 2,
       "owner": "parubok",
       "repo": "awesome-swing",
-      "stars": 573
+      "stars": 573,
+      "topics": [
+        "awesome-list",
+        "awt",
+        "client-side",
+        "gui",
+        "java",
+        "java-swing",
+        "java2d",
+        "rich-client",
+        "swing",
+        "visualization"
+      ]
     },
     "original_repository_sha": "78dac93791b024e473d249dec2fb078aa248f03a",
     "enhanced_repository": "enhansome/enhansome-swing",
