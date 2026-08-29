@@ -641,7 +641,7 @@
             "open_issues": 10,
             "owner": "kirill-grouchnikov",
             "repo": "radiance",
-            "stars": 905,
+            "stars": 906,
             "topics": [
               "animation",
               "components",
@@ -970,7 +970,7 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:09:26Z",
+            "last_commit": "2026-08-29T05:03:58Z",
             "open_issues": 154,
             "owner": "JetBrains",
             "repo": "intellij-community",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:47.229Z",
+    "last_updated": "2026-08-29T07:24:50.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
