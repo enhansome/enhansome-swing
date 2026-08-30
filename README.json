@@ -420,7 +420,7 @@
             "open_issues": 13,
             "owner": "JDatePicker",
             "repo": "JDatePicker",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -565,7 +565,7 @@
             "open_issues": 18,
             "owner": "vincenzopalazzo",
             "repo": "material-ui-swing",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "hacktoberfest",
               "java",
@@ -881,7 +881,7 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:48:19Z",
+            "last_commit": "2026-08-29T22:34:21Z",
             "open_issues": 17,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
@@ -970,11 +970,11 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T05:03:58Z",
-            "open_issues": 154,
+            "last_commit": "2026-08-30T05:08:09Z",
+            "open_issues": 155,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20495,
+            "stars": 20497,
             "topics": [
               "code-editor",
               "ide",
@@ -1106,7 +1106,7 @@
             "open_issues": 7,
             "owner": "steos",
             "repo": "jnafilechooser",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1190,7 +1190,7 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-28T18:04:43Z",
+            "last_commit": "2026-08-29T19:33:55Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
@@ -1444,7 +1444,7 @@
             "open_issues": 57,
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
-            "stars": 2143,
+            "stars": 2144,
             "topics": [
               "bmp",
               "icc-profiles",
@@ -1575,7 +1575,7 @@
             "id": 21087611,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:34:03Z",
+            "last_commit": "2026-08-30T05:37:01Z",
             "open_issues": 0,
             "owner": "javadev",
             "repo": "file-manager",
@@ -1802,10 +1802,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:30:17Z",
-            "open_issues": 971,
+            "open_issues": 976,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9521,
+            "stars": 9523,
             "topics": [
               "java",
               "performance",
@@ -2246,7 +2246,7 @@
             "open_issues": 23,
             "owner": "Dansoftowner",
             "repo": "jSystemThemeDetector",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "desktop",
               "java",
@@ -2505,7 +2505,7 @@
             "id": 515268257,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:09:29Z",
+            "last_commit": "2026-08-29T15:31:53Z",
             "open_issues": 0,
             "owner": "HTTP-RPC",
             "repo": "Sierra",
@@ -2537,7 +2537,7 @@
             "open_issues": 19,
             "owner": "andrewauclair",
             "repo": "ModernDocking",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "docking",
               "java",
@@ -2590,7 +2590,7 @@
             "open_issues": 5,
             "owner": "dotxyteam",
             "repo": "ReflectionUI",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -2611,7 +2611,7 @@
             "open_issues": 4,
             "owner": "DJ-Raven",
             "repo": "swing-modal-dialog",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "desktop",
               "flatlaf",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:24:50.321Z",
+    "last_updated": "2026-08-30T05:51:40.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
