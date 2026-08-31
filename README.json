@@ -177,8 +177,8 @@
             "id": 618681,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T21:08:32Z",
-            "open_issues": 35,
+            "last_commit": "2026-08-31T00:22:33Z",
+            "open_issues": 36,
             "owner": "flyingsaucerproject",
             "repo": "flyingsaucer",
             "stars": 2236,
@@ -328,7 +328,7 @@
             "open_issues": 22,
             "owner": "apache",
             "repo": "xmlgraphics-batik",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "apache",
               "batik"
@@ -373,7 +373,7 @@
             "open_issues": 11,
             "owner": "jfree",
             "repo": "jfreesvg",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "java",
               "java-library",
@@ -525,7 +525,7 @@
             "open_issues": 27,
             "owner": "weisJ",
             "repo": "darklaf",
-            "stars": 474,
+            "stars": 472,
             "topics": [
               "darcula",
               "darcula-theme",
@@ -766,7 +766,7 @@
             "open_issues": 148,
             "owner": "glazedlists",
             "repo": "glazedlists",
-            "stars": 173,
+            "stars": 174,
             "topics": [
               "collections",
               "glazedlists",
@@ -881,7 +881,7 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T22:34:21Z",
+            "last_commit": "2026-08-30T22:38:08Z",
             "open_issues": 17,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
@@ -970,7 +970,7 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T05:08:09Z",
+            "last_commit": "2026-08-31T03:08:56Z",
             "open_issues": 155,
             "owner": "JetBrains",
             "repo": "intellij-community",
@@ -1001,7 +1001,7 @@
             "open_issues": 95,
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2616,
+            "stars": 2615,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1190,7 +1190,7 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-29T19:33:55Z",
+            "last_commit": "2026-08-30T17:37:49Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
@@ -1575,7 +1575,7 @@
             "id": 21087611,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:37:01Z",
+            "last_commit": "2026-08-31T00:46:07Z",
             "open_issues": 0,
             "owner": "javadev",
             "repo": "file-manager",
@@ -1707,7 +1707,7 @@
             "open_issues": 4,
             "owner": "gaborbata",
             "repo": "jpass",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "aes-256",
               "application",
@@ -1740,7 +1740,7 @@
             "open_issues": 4,
             "owner": "gaborbata",
             "repo": "jpass",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "aes-256",
               "application",
@@ -2246,7 +2246,7 @@
             "open_issues": 23,
             "owner": "Dansoftowner",
             "repo": "jSystemThemeDetector",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "desktop",
               "java",
@@ -2452,8 +2452,8 @@
             "id": 444023183,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-25T19:41:12Z",
-            "open_issues": 25,
+            "last_commit": "2026-08-31T02:07:22Z",
+            "open_issues": 26,
             "owner": "bric3",
             "repo": "fireplace",
             "stars": 25,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:51:40.637Z",
+    "last_updated": "2026-08-31T06:14:20.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
