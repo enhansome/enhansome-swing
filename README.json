@@ -114,7 +114,7 @@
             "open_issues": 1,
             "owner": "haifengl",
             "repo": "smile",
-            "stars": 6414,
+            "stars": 6415,
             "topics": [
               "classification",
               "clustering",
@@ -152,8 +152,8 @@
             "id": 11966919,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-24T18:15:06Z",
-            "open_issues": 125,
+            "last_commit": "2026-08-31T18:14:24Z",
+            "open_issues": 126,
             "owner": "bobbylight",
             "repo": "RSyntaxTextArea",
             "stars": 1251,
@@ -177,8 +177,8 @@
             "id": 618681,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T00:22:33Z",
-            "open_issues": 36,
+            "last_commit": "2026-08-31T19:51:31Z",
+            "open_issues": 35,
             "owner": "flyingsaucerproject",
             "repo": "flyingsaucer",
             "stars": 2236,
@@ -202,7 +202,7 @@
             "open_issues": 3,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "browser",
               "browser-api",
@@ -259,7 +259,7 @@
             "open_issues": 3,
             "owner": "EsotericSoftware",
             "repo": "tablelayout",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -473,7 +473,7 @@
             "open_issues": 3,
             "owner": "AurelienRibon",
             "repo": "sliding-layout",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -672,7 +672,7 @@
             "open_issues": 10,
             "owner": "UISpec4J",
             "repo": "UISpec4J",
-            "stars": 76,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -824,7 +824,7 @@
             "open_issues": 31,
             "owner": "dorkbox",
             "repo": "SystemTray",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "appindicator",
               "awt",
@@ -881,8 +881,8 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T22:38:08Z",
-            "open_issues": 17,
+            "last_commit": "2026-08-31T23:43:01Z",
+            "open_issues": 18,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
             "stars": 373,
@@ -907,7 +907,7 @@
             "id": 7544679,
             "language": "Java",
             "license": "LGPL-3.0",
-            "last_commit": "2026-07-30T20:36:11Z",
+            "last_commit": "2026-08-31T06:16:02Z",
             "open_issues": 51,
             "owner": "JetBrains",
             "repo": "jediterm",
@@ -970,11 +970,11 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T03:08:56Z",
-            "open_issues": 155,
+            "last_commit": "2026-09-01T05:38:57Z",
+            "open_issues": 156,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20497,
+            "stars": 20498,
             "topics": [
               "code-editor",
               "ide",
@@ -1106,7 +1106,7 @@
             "open_issues": 7,
             "owner": "steos",
             "repo": "jnafilechooser",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1190,7 +1190,7 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-30T17:37:49Z",
+            "last_commit": "2026-08-31T23:01:52Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
@@ -1440,8 +1440,8 @@
             "id": 296658,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T15:47:48Z",
-            "open_issues": 57,
+            "last_commit": "2026-08-31T08:59:46Z",
+            "open_issues": 58,
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
             "stars": 2144,
@@ -2004,7 +2004,7 @@
             "open_issues": 41,
             "owner": "hvdwolf",
             "repo": "jExifToolGUI",
-            "stars": 573,
+            "stars": 574,
             "topics": [
               "exiftool",
               "frontend",
@@ -2091,7 +2091,7 @@
             "open_issues": 99,
             "owner": "jython",
             "repo": "jython",
-            "stars": 1536,
+            "stars": 1538,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -2145,7 +2145,7 @@
             "open_issues": 129,
             "owner": "karakun",
             "repo": "OpenWebStart",
-            "stars": 528,
+            "stars": 529,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -2423,7 +2423,7 @@
             "id": 524052248,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T18:17:46Z",
+            "last_commit": "2026-08-31T18:16:33Z",
             "open_issues": 4,
             "owner": "dheid",
             "repo": "colorpicker",
@@ -2452,7 +2452,7 @@
             "id": 444023183,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-31T02:07:22Z",
+            "last_commit": "2026-08-31T15:35:58Z",
             "open_issues": 26,
             "owner": "bric3",
             "repo": "fireplace",
@@ -2483,7 +2483,7 @@
             "open_issues": 0,
             "owner": "parubok",
             "repo": "multiline-label",
-            "stars": 14,
+            "stars": 16,
             "topics": [
               "java-11",
               "java-module",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:14:20.182Z",
+    "last_updated": "2026-09-01T05:41:26.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
