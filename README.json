@@ -110,7 +110,7 @@
             "id": 26921116,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T03:21:09Z",
+            "last_commit": "2026-09-26T04:23:29Z",
             "open_issues": 0,
             "owner": "haifengl",
             "repo": "smile",
@@ -238,7 +238,7 @@
             "open_issues": 25,
             "owner": "mikaelgrev",
             "repo": "miglayout",
-            "stars": 489,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -328,7 +328,7 @@
             "open_issues": 22,
             "owner": "apache",
             "repo": "xmlgraphics-batik",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "apache",
               "batik"
@@ -352,7 +352,7 @@
             "open_issues": 21,
             "owner": "blackears",
             "repo": "svgSalamander",
-            "stars": 168,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -565,7 +565,7 @@
             "open_issues": 18,
             "owner": "vincenzopalazzo",
             "repo": "material-ui-swing",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "hacktoberfest",
               "java",
@@ -641,7 +641,7 @@
             "open_issues": 11,
             "owner": "kirill-grouchnikov",
             "repo": "radiance",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "animation",
               "components",
@@ -881,11 +881,11 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T23:10:55Z",
+            "last_commit": "2026-09-25T23:13:57Z",
             "open_issues": 17,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
-            "stars": 375,
+            "stars": 374,
             "topics": [
               "convert",
               "encoding",
@@ -911,7 +911,7 @@
             "open_issues": 53,
             "owner": "JetBrains",
             "repo": "jediterm",
-            "stars": 864,
+            "stars": 865,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -970,11 +970,11 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T05:19:20Z",
-            "open_issues": 152,
+            "last_commit": "2026-09-26T02:37:44Z",
+            "open_issues": 154,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20588,
+            "stars": 20589,
             "topics": [
               "code-editor",
               "ide",
@@ -1001,7 +1001,7 @@
             "open_issues": 96,
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2620,
+            "stars": 2621,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1190,11 +1190,11 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-24T15:24:44Z",
+            "last_commit": "2026-09-26T04:06:14Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "examples",
               "java",
@@ -1440,7 +1440,7 @@
             "id": 296658,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-21T09:54:08Z",
+            "last_commit": "2026-09-25T08:52:46Z",
             "open_issues": 55,
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
@@ -1575,7 +1575,7 @@
             "id": 21087611,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-25T03:54:04Z",
+            "last_commit": "2026-09-26T01:16:49Z",
             "open_issues": 0,
             "owner": "javadev",
             "repo": "file-manager",
@@ -1929,7 +1929,7 @@
             "open_issues": 0,
             "owner": "sshtools",
             "repo": "icon-generator",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "awt",
               "fontawesome",
@@ -2088,7 +2088,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T09:11:37Z",
-            "open_issues": 98,
+            "open_issues": 99,
             "owner": "jython",
             "repo": "jython",
             "stars": 1542,
@@ -2243,10 +2243,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-01-10T21:45:30Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "Dansoftowner",
             "repo": "jSystemThemeDetector",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "desktop",
               "java",
@@ -2423,7 +2423,7 @@
             "id": 524052248,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-21T18:17:43Z",
+            "last_commit": "2026-09-25T18:15:01Z",
             "open_issues": 4,
             "owner": "dheid",
             "repo": "colorpicker",
@@ -2586,7 +2586,7 @@
             "id": 159641879,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-18T14:37:43Z",
+            "last_commit": "2026-09-25T11:23:34Z",
             "open_issues": 5,
             "owner": "dotxyteam",
             "repo": "ReflectionUI",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T05:25:39.479Z",
+    "last_updated": "2026-09-26T05:31:32.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
