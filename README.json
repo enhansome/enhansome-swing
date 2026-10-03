@@ -970,7 +970,7 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:06:06Z",
+            "last_commit": "2026-10-03T05:40:06Z",
             "open_issues": 147,
             "owner": "JetBrains",
             "repo": "intellij-community",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:13:12.269Z",
+    "last_updated": "2026-10-03T05:46:13.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
