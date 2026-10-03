@@ -110,11 +110,11 @@
             "id": 26921116,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T04:45:56Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T04:57:51Z",
+            "open_issues": 3,
             "owner": "haifengl",
             "repo": "smile",
-            "stars": 6416,
+            "stars": 6418,
             "topics": [
               "classification",
               "clustering",
@@ -198,7 +198,7 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:19:19Z",
+            "last_commit": "2026-10-02T23:28:56Z",
             "open_issues": 3,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
@@ -234,8 +234,8 @@
             "id": 36735187,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-26T22:22:10Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-02T13:46:12Z",
+            "open_issues": 22,
             "owner": "mikaelgrev",
             "repo": "miglayout",
             "stars": 488,
@@ -373,7 +373,7 @@
             "open_issues": 11,
             "owner": "jfree",
             "repo": "jfreesvg",
-            "stars": 355,
+            "stars": 354,
             "topics": [
               "java",
               "java-library",
@@ -525,7 +525,7 @@
             "open_issues": 27,
             "owner": "weisJ",
             "repo": "darklaf",
-            "stars": 473,
+            "stars": 474,
             "topics": [
               "darcula",
               "darcula-theme",
@@ -641,7 +641,7 @@
             "open_issues": 11,
             "owner": "kirill-grouchnikov",
             "repo": "radiance",
-            "stars": 908,
+            "stars": 907,
             "topics": [
               "animation",
               "components",
@@ -864,7 +864,7 @@
             "open_issues": 7,
             "owner": "bbuck",
             "repo": "DragonConsole",
-            "stars": 62,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -881,7 +881,7 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T23:53:05Z",
+            "last_commit": "2026-10-02T23:41:42Z",
             "open_issues": 18,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
@@ -911,7 +911,7 @@
             "open_issues": 53,
             "owner": "JetBrains",
             "repo": "jediterm",
-            "stars": 865,
+            "stars": 864,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -919,7 +919,7 @@
         {
           "node_type": "item",
           "title": "swing-console",
-          "description": null,
+          "description": "mikera/swing-console",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -932,7 +932,7 @@
             "open_issues": 0,
             "owner": "mikera",
             "repo": "swing-console",
-            "stars": 77,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -940,7 +940,7 @@
         {
           "node_type": "item",
           "title": "LGPL",
-          "description": null,
+          "description": "mikera/swing-console",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -953,7 +953,7 @@
             "open_issues": 0,
             "owner": "mikera",
             "repo": "swing-console",
-            "stars": 77,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -970,11 +970,11 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T05:47:21Z",
+            "last_commit": "2026-10-03T04:06:06Z",
             "open_issues": 147,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20601,
+            "stars": 20603,
             "topics": [
               "code-editor",
               "ide",
@@ -1001,7 +1001,7 @@
             "open_issues": 96,
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2623,
+            "stars": 2624,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1030,7 +1030,7 @@
         {
           "node_type": "item",
           "title": "SwiXml",
-          "description": null,
+          "description": "swixml/Two",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1051,7 +1051,7 @@
         {
           "node_type": "item",
           "title": "Custom",
-          "description": null,
+          "description": "swixml/Two",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1190,7 +1190,7 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-01T15:42:23Z",
+            "last_commit": "2026-10-03T01:42:45Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
@@ -1206,7 +1206,7 @@
         {
           "node_type": "item",
           "title": "JTreeTable",
-          "description": null,
+          "description": "javagl/JTreeTable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1227,7 +1227,7 @@
         {
           "node_type": "item",
           "title": "\"As is\"",
-          "description": null,
+          "description": "javagl/JTreeTable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1441,7 +1441,7 @@
             "language": "Java",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-01T09:19:50Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
             "stars": 2146,
@@ -1575,7 +1575,7 @@
             "id": 21087611,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-01T02:27:09Z",
+            "last_commit": "2026-10-03T04:43:15Z",
             "open_issues": 0,
             "owner": "javadev",
             "repo": "file-manager",
@@ -1694,7 +1694,7 @@
         {
           "node_type": "item",
           "title": "JPass",
-          "description": null,
+          "description": "gaborbata/jpass",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1707,7 +1707,7 @@
             "open_issues": 4,
             "owner": "gaborbata",
             "repo": "jpass",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "aes-256",
               "application",
@@ -1727,7 +1727,7 @@
         {
           "node_type": "item",
           "title": "\"As is\"",
-          "description": null,
+          "description": "gaborbata/jpass",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1740,7 +1740,7 @@
             "open_issues": 4,
             "owner": "gaborbata",
             "repo": "jpass",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "aes-256",
               "application",
@@ -2004,7 +2004,7 @@
             "open_issues": 41,
             "owner": "hvdwolf",
             "repo": "jExifToolGUI",
-            "stars": 576,
+            "stars": 575,
             "topics": [
               "exiftool",
               "frontend",
@@ -2057,7 +2057,7 @@
         {
           "node_type": "item",
           "title": "Jython Swing Utilities",
-          "description": null,
+          "description": "jython/swingutils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2078,7 +2078,7 @@
         {
           "node_type": "item",
           "title": "A collection of utility classes and helper functions to make it easier to build Swing user interfaces with Jython",
-          "description": null,
+          "description": "jython/jython",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2088,10 +2088,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T09:11:37Z",
-            "open_issues": 102,
+            "open_issues": 101,
             "owner": "jython",
             "repo": "jython",
-            "stars": 1545,
+            "stars": 1546,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -2145,7 +2145,7 @@
             "open_issues": 128,
             "owner": "karakun",
             "repo": "OpenWebStart",
-            "stars": 528,
+            "stars": 529,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -2166,7 +2166,7 @@
             "open_issues": 37,
             "owner": "CoocooFroggy",
             "repo": "FutureRestore-GUI",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "futurerestore",
               "futurerestore-gui",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:15:04.799Z",
+    "last_updated": "2026-10-03T05:13:12.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
