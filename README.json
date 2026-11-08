@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "jgraph",
             "repo": "jgraphx",
-            "stars": 690,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -110,11 +110,11 @@
             "id": 26921116,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T03:08:15Z",
+            "last_commit": "2026-11-08T06:01:09Z",
             "open_issues": 2,
             "owner": "haifengl",
             "repo": "smile",
-            "stars": 6429,
+            "stars": 6430,
             "topics": [
               "classification",
               "clustering",
@@ -762,8 +762,8 @@
             "id": 18942355,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T22:35:51Z",
-            "open_issues": 150,
+            "last_commit": "2026-11-07T22:40:04Z",
+            "open_issues": 149,
             "owner": "glazedlists",
             "repo": "glazedlists",
             "stars": 175,
@@ -881,7 +881,7 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T00:02:59Z",
+            "last_commit": "2026-11-07T23:34:51Z",
             "open_issues": 18,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
@@ -911,7 +911,7 @@
             "open_issues": 55,
             "owner": "JetBrains",
             "repo": "jediterm",
-            "stars": 873,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -970,11 +970,11 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T06:27:25Z",
-            "open_issues": 168,
+            "last_commit": "2026-11-08T00:58:08Z",
+            "open_issues": 170,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20715,
+            "stars": 20717,
             "topics": [
               "code-editor",
               "ide",
@@ -1001,7 +1001,7 @@
             "open_issues": 98,
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2635,
+            "stars": 2636,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1190,7 +1190,7 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-07T01:24:56Z",
+            "last_commit": "2026-11-08T01:14:42Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
@@ -1575,7 +1575,7 @@
             "id": 21087611,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-07T04:21:35Z",
+            "last_commit": "2026-11-08T04:01:45Z",
             "open_issues": 0,
             "owner": "javadev",
             "repo": "file-manager",
@@ -1805,7 +1805,7 @@
             "open_issues": 992,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9596,
+            "stars": 9599,
             "topics": [
               "java",
               "performance",
@@ -2087,8 +2087,8 @@
             "id": 282480317,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T14:30:44Z",
-            "open_issues": 104,
+            "last_commit": "2026-11-07T21:07:33Z",
+            "open_issues": 103,
             "owner": "jython",
             "repo": "jython",
             "stars": 1551,
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:37:26.152Z",
+    "last_updated": "2026-11-08T06:43:21.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
