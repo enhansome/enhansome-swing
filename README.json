@@ -110,11 +110,11 @@
             "id": 26921116,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T02:43:43Z",
+            "last_commit": "2026-11-15T05:22:46Z",
             "open_issues": 2,
             "owner": "haifengl",
             "repo": "smile",
-            "stars": 6436,
+            "stars": 6438,
             "topics": [
               "classification",
               "clustering",
@@ -259,7 +259,7 @@
             "open_issues": 3,
             "owner": "EsotericSoftware",
             "repo": "tablelayout",
-            "stars": 294,
+            "stars": 292,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -328,7 +328,7 @@
             "open_issues": 23,
             "owner": "apache",
             "repo": "xmlgraphics-batik",
-            "stars": 248,
+            "stars": 247,
             "topics": [
               "apache",
               "batik"
@@ -731,7 +731,7 @@
             "id": 94116947,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T15:20:27Z",
+            "last_commit": "2026-11-14T08:35:56Z",
             "open_issues": 42,
             "owner": "Hexworks",
             "repo": "zircon",
@@ -762,7 +762,7 @@
             "id": 18942355,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T00:14:00Z",
+            "last_commit": "2026-11-14T20:51:21Z",
             "open_issues": 146,
             "owner": "glazedlists",
             "repo": "glazedlists",
@@ -881,7 +881,7 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T00:50:27Z",
+            "last_commit": "2026-11-14T23:48:52Z",
             "open_issues": 18,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
@@ -970,11 +970,11 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T05:59:22Z",
+            "last_commit": "2026-11-15T01:49:15Z",
             "open_issues": 171,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20731,
+            "stars": 20735,
             "topics": [
               "code-editor",
               "ide",
@@ -1001,7 +1001,7 @@
             "open_issues": 98,
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2637,
+            "stars": 2636,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1190,7 +1190,7 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-13T15:21:08Z",
+            "last_commit": "2026-11-14T16:08:46Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
@@ -1444,7 +1444,7 @@
             "open_issues": 86,
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
-            "stars": 2154,
+            "stars": 2153,
             "topics": [
               "bmp",
               "icc-profiles",
@@ -1575,7 +1575,7 @@
             "id": 21087611,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-14T06:59:42Z",
+            "last_commit": "2026-11-15T01:59:45Z",
             "open_issues": 0,
             "owner": "javadev",
             "repo": "file-manager",
@@ -1805,7 +1805,7 @@
             "open_issues": 994,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9603,
+            "stars": 9605,
             "topics": [
               "java",
               "performance",
@@ -2004,7 +2004,7 @@
             "open_issues": 40,
             "owner": "hvdwolf",
             "repo": "jExifToolGUI",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "exiftool",
               "frontend",
@@ -2141,7 +2141,7 @@
             "id": 187595602,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T14:42:34Z",
+            "last_commit": "2026-11-14T21:36:02Z",
             "open_issues": 131,
             "owner": "karakun",
             "repo": "OpenWebStart",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:03:15.215Z",
+    "last_updated": "2026-11-15T07:13:07.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
