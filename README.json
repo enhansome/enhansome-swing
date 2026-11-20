@@ -61,7 +61,7 @@
             "open_issues": 164,
             "owner": "jfree",
             "repo": "jfreechart",
-            "stars": 1392,
+            "stars": 1390,
             "topics": [
               "charts",
               "data-visualization",
@@ -110,11 +110,11 @@
             "id": 26921116,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T05:08:08Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-20T05:07:55Z",
+            "open_issues": 2,
             "owner": "haifengl",
             "repo": "smile",
-            "stars": 6438,
+            "stars": 6437,
             "topics": [
               "classification",
               "clustering",
@@ -156,7 +156,7 @@
             "open_issues": 122,
             "owner": "bobbylight",
             "repo": "RSyntaxTextArea",
-            "stars": 1262,
+            "stars": 1261,
             "topics": [
               "code-editor",
               "java-swing-applications",
@@ -178,10 +178,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-11-16T00:34:42Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "flyingsaucerproject",
             "repo": "flyingsaucer",
-            "stars": 2237,
+            "stars": 2235,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -373,7 +373,7 @@
             "open_issues": 11,
             "owner": "jfree",
             "repo": "jfreesvg",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "java",
               "java-library",
@@ -399,7 +399,7 @@
             "open_issues": 24,
             "owner": "LGoodDatePicker",
             "repo": "LGoodDatePicker",
-            "stars": 302,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -494,7 +494,7 @@
             "open_issues": 200,
             "owner": "mgarin",
             "repo": "weblaf",
-            "stars": 1176,
+            "stars": 1175,
             "topics": [
               "components",
               "cross-platform",
@@ -565,7 +565,7 @@
             "open_issues": 18,
             "owner": "vincenzopalazzo",
             "repo": "material-ui-swing",
-            "stars": 346,
+            "stars": 345,
             "topics": [
               "hacktoberfest",
               "java",
@@ -735,7 +735,7 @@
             "open_issues": 42,
             "owner": "Hexworks",
             "repo": "zircon",
-            "stars": 798,
+            "stars": 797,
             "topics": [
               "game-development",
               "java",
@@ -792,7 +792,7 @@
             "open_issues": 0,
             "owner": "icela",
             "repo": "FriceEngine",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "engine",
               "frice-engine",
@@ -824,7 +824,7 @@
             "open_issues": 30,
             "owner": "dorkbox",
             "repo": "SystemTray",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "appindicator",
               "awt",
@@ -881,7 +881,7 @@
             "id": 145309300,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T01:50:17Z",
+            "last_commit": "2026-11-20T01:45:44Z",
             "open_issues": 18,
             "owner": "AloysHF",
             "repo": "ApkToolBoxGUI",
@@ -911,7 +911,7 @@
             "open_issues": 55,
             "owner": "JetBrains",
             "repo": "jediterm",
-            "stars": 876,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -970,11 +970,11 @@
             "id": 2489216,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T07:18:01Z",
+            "last_commit": "2026-11-20T06:50:45Z",
             "open_issues": 175,
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20744,
+            "stars": 20745,
             "topics": [
               "code-editor",
               "ide",
@@ -1001,7 +1001,7 @@
             "open_issues": 98,
             "owner": "mabe02",
             "repo": "lanterna",
-            "stars": 2637,
+            "stars": 2636,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -1190,11 +1190,11 @@
             "id": 23829681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-18T16:16:03Z",
+            "last_commit": "2026-11-19T15:44:52Z",
             "open_issues": 3,
             "owner": "aterai",
             "repo": "java-swing-tips",
-            "stars": 625,
+            "stars": 624,
             "topics": [
               "examples",
               "java",
@@ -1367,7 +1367,7 @@
             "open_issues": 17,
             "owner": "beryx",
             "repo": "text-io",
-            "stars": 355,
+            "stars": 354,
             "topics": [
               "console",
               "text-based"
@@ -1444,7 +1444,7 @@
             "open_issues": 77,
             "owner": "haraldk",
             "repo": "TwelveMonkeys",
-            "stars": 2154,
+            "stars": 2156,
             "topics": [
               "bmp",
               "icc-profiles",
@@ -1510,7 +1510,7 @@
             "open_issues": 26,
             "owner": "hexadeciman",
             "repo": "Snake",
-            "stars": 380,
+            "stars": 379,
             "topics": [
               "game",
               "java",
@@ -1802,10 +1802,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T09:30:14Z",
-            "open_issues": 995,
+            "open_issues": 996,
             "owner": "apache",
             "repo": "jmeter",
-            "stars": 9611,
+            "stars": 9610,
             "topics": [
               "java",
               "performance",
@@ -1830,7 +1830,7 @@
             "open_issues": 97,
             "owner": "HouariZegai",
             "repo": "Calculator",
-            "stars": 733,
+            "stars": 731,
             "topics": [
               "calculator",
               "calculator-app",
@@ -2004,7 +2004,7 @@
             "open_issues": 40,
             "owner": "hvdwolf",
             "repo": "jExifToolGUI",
-            "stars": 580,
+            "stars": 579,
             "topics": [
               "exiftool",
               "frontend",
@@ -2091,7 +2091,7 @@
             "open_issues": 109,
             "owner": "jython",
             "repo": "jython",
-            "stars": 1550,
+            "stars": 1549,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -2142,10 +2142,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-11-15T12:32:21Z",
-            "open_issues": 130,
+            "open_issues": 129,
             "owner": "karakun",
             "repo": "OpenWebStart",
-            "stars": 536,
+            "stars": 535,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:55.394Z"
@@ -2166,7 +2166,7 @@
             "open_issues": 36,
             "owner": "CoocooFroggy",
             "repo": "FutureRestore-GUI",
-            "stars": 565,
+            "stars": 563,
             "topics": [
               "futurerestore",
               "futurerestore-gui",
@@ -2307,7 +2307,7 @@
             "open_issues": 1,
             "owner": "rodion-gudz",
             "repo": "Android-Tool",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "adb",
               "android",
@@ -2537,7 +2537,7 @@
             "open_issues": 19,
             "owner": "andrewauclair",
             "repo": "ModernDocking",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "docking",
               "java",
@@ -2629,7 +2629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:57:33.349Z",
+    "last_updated": "2026-11-20T07:46:42.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of frameworks, libraries and software for the Java Swing GUI toolkit.",
@@ -2641,7 +2641,7 @@
       "open_issues": 0,
       "owner": "parubok",
       "repo": "awesome-swing",
-      "stars": 574,
+      "stars": 573,
       "topics": [
         "awesome-list",
         "awt",
